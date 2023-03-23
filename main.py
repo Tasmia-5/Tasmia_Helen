@@ -11,3 +11,4 @@ if __name__ == '__main__':
     num = 7
     result = factorial(num)
     print(f"The factorial of {num} is {result}.")
+    print("YO")
